@@ -1,0 +1,24 @@
+{
+  "name": "garden-for-zotero",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Garden Zotero Plugin Release Repository",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l0o0/garden_for_zotero.git"
+  },
+  "author": "l0o0",
+  "license": "MIT",
+  "packageManager": "pnpm@9.0.0",
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=9.0.0"
+  },
+  "scripts": {
+    "release": "node scripts/release.js",
+    "release:dry": "node scripts/release.js --dry-run"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
