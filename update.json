@@ -1,0 +1,19 @@
+{
+  "addons": {
+    "garden@linxzh.com": {
+      "updates": [
+        {
+          "version": "0.0.1",
+          "update_link": "https://github.com/l0o0/Garden-for-Zotero/releases/download/v0.0.1/garden_0.0.1.xpi",
+          "update_hash": "sha512:1409bb840b31f73c610591f5980a7af88312b932587d3e20762554cf7b93c1b6bcb58ce0c2baf9bcc225d9cf8139b9c7850a7489cfbdb1c7d6063f65f2203b58",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999",
+              "strict_max_version": "8.*"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
