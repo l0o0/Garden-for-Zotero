@@ -3,9 +3,9 @@
     "garden@linxzh.com": {
       "updates": [
         {
-          "version": "0.0.1",
-          "update_link": "https://github.com/l0o0/Garden-for-Zotero/releases/download/v0.0.1/garden_v0.0.1.xpi",
-          "update_hash": "sha512:5a287ed3c8799bb89b0e98361d4fbf034f5ff2766aaff18f2512454374fbe2d9ae026c3c4de24fb81c06cc119eb0ef393553a03a2f9fa924eca0e2634113a821",
+          "version": "0.0.2",
+          "update_link": "https://github.com/l0o0/Garden-for-Zotero/releases/download/v0.0.2/garden_v0.0.2.xpi",
+          "update_hash": "sha512:93f8236b1ed12cc05ce52236e8cd7f0cc9e6d3a77d715663422e83939ce9d76b25860b9ccbdb767e7bb0e363b90e3eafaab80ec85a8b9bfc1901742a72d04d83",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999",
