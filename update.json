@@ -5,7 +5,7 @@
         {
           "version": "0.2.3",
           "update_link": "https://github.com/l0o0/Garden-for-Zotero/releases/download/v0.2.3/garden_v0.2.3.xpi",
-          "update_hash": "sha512:1fba1b9de293f4f2626c2c6ba51d797ce77bfdad7523fb4b707f866d9737395e82168357168d7dd48633bdeeef64fcf47b062b43fd5e444d39d0a7bfac2742dc",
+          "update_hash": "sha512:087dc21ff94fc83408db66debad61c5846ad4034f1ba5719432e348954aa97a39bb27d06f5098245f0309e95c45d157ffe694520e451b6d35afd8bb65d6128e4",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999",
