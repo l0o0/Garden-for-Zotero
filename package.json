@@ -16,7 +16,8 @@
   },
   "scripts": {
     "release": "node scripts/release.js",
-    "release:dry": "node scripts/release.js --dry-run"
+    "release:dry": "node scripts/release.js --dry-run",
+    "test": "node --test scripts/*.test.js"
   },
   "devDependencies": {
     "dotenv": "^16.4.5"
